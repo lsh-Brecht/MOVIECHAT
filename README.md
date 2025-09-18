@@ -12,9 +12,17 @@ MOVIECHAT은 사용자와의 대화를 통해 영화 취향을 분석하고, 이
 
 - 사용자와의 대화를 통해 취향을 파악하고, 적절한 영화를 추천하거나 토론하는 등 영화와 관련된 심도있는 이야기를 나눌 수 있습니다.
 
+https://github.com/user-attachments/assets/09ddcb1b-e173-4a7d-b251-52ea85bf5507
+
+
 ### 몰입형 대화
 
 - 영화 속 등장인물과 직접 대화하며 영화 내용을 토론하는 등 더욱더 영화에 몰입할 수 있습니다.
+
+
+https://github.com/user-attachments/assets/8dceba62-f60c-4068-87ca-78dd75f5d54b
+
+
 
 ### 북마크/아카이빙
 
